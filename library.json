@@ -3,18 +3,16 @@
   "version": "2.2.2",
   "description": "Preferences library for ESP8266 and Particle Gen3 devices, with ESP32-compatible API",
   "keywords": "preferences, settings, storage, fs, filesystem",
-  "authors":
-  {
-    "name":  "Volodymyr Shymanskyy",
-    "url":   "https://github.com/vshymanskyy",
+  "authors": {
+    "name": "Volodymyr Shymanskyy",
+    "url": "https://github.com/vshymanskyy",
     "maintainer": true
   },
-  "repository":
-  {
+  "repository": {
     "type": "git",
-    "url": "https://github.com/vshymanskyy/Preferences.git"
+    "url": "https://github.com/juantinazzo/Preferences.git"
   },
-  "homepage": "https://github.com/vshymanskyy/Preferences",
+  "homepage": "https://github.com/juantinazzo/Preferences",
   "frameworks": "*",
   "platforms": "espressif8266"
 }
