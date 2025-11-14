@@ -22,6 +22,8 @@
   #include "prefs_impl_wifinina.h"
 #elif defined(NVS_USE_DUMMY)
   #include "prefs_impl_dummy.h"
+#elif defined(NVS_USE_CUSTOM)
+  #include "prefs_impl_custom.h"
 #endif
 
 static bool gPrefsFsInit;
